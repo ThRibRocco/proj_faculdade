@@ -12,7 +12,7 @@ Olá, este é um projeto que mostrará o que estou aprendendo a fazer na faculda
 
 <h2>Instituição: </h2>
 
-|<img loading="lazy" src="https://github.com/ThRibRocco/proj_faculdade/assets/163040527/30fecd51-0c53-423b-b028-78dcf381375a" width=115><br><sub>Faculdade Impacta</sub>(https://www.impacta.edu.br/)|
+|[<img loading="lazy" src="https://github.com/ThRibRocco/proj_faculdade/assets/163040527/30fecd51-0c53-423b-b028-78dcf381375a" width=115><br><sub>Faculdade Impacta</sub>](https://www.impacta.edu.br/)|
 | :---: |
 
 <h2>Processo do Projeto: </h2>
