@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Treino</string>
+    <string name="novo_texto">Novo Texto</string>
+    <string name="seu_nome">Qual seu nome?</string>
+    <string name="usuario">Usuário</string>
+    <string name="frase">Texto</string>
+    <string name="salvo">Salvar</string>
+    <string name="vamos_iniciar">Lets go?</string>
+    <string name="todas_frase">Todas os Textos</string>
+    <string name="frases_de_motivacao">Textos de motivação</string>
+    <string name="frases_da_manha">Textos para cedo</string>
+    <string name="nome_mandatario">Informe seu nome.</string>
+    <string name="texto_widge">EXAMPLE</string>
+    <string name="widges">Add widget</string>
+    <string name="description"></string>
+</resources>
