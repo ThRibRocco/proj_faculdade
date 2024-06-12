@@ -50,3 +50,7 @@ Olá, este é um projeto que mostrará o que estou aprendendo a fazer na faculda
 
 <h2> Projetos do Curso: </h2>
 <p>Com o tempo, para cada projeto do curso da minha instituição, irei apresentar os links de acesso a outros repositórios que você poderá acessar e ver os projetos que desenvolvi na faculdade. </p>
+<ul>
+  <li>Matéria de DevOps: <br><sub>Link do repositório</sub>(https://github.com/lu-tamura/TextGame_Devops)</li>
+  <li>Matéria de Desenvolvimento Mobile: <br><sub>Link do repositório</sub>(https://github.com/lu-tamura/app-devmobile)</li>
+</ul>
